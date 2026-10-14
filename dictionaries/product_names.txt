@@ -1,0 +1,293 @@
+adapter
+allergy medicine
+amusement park
+antiseptic
+apple
+aquarium
+backpack
+bakery
+banana
+bandage
+bank fee
+basket
+battery charger
+beans
+bed
+bed sheet
+beef
+belt
+bicycle
+birthday gift
+blanket
+blouse
+board game
+body lotion
+book
+boots
+bowling
+bread
+breakfast
+broom
+brunch
+burger
+bus
+bus ticket
+butter
+cafe
+camera
+canteen
+cap
+car rental
+car wash
+cardigan
+carpet
+carrot
+cereal
+chair
+charger
+charity
+cheese
+chicken
+chinese restaurant
+chocolate
+cinema
+clock
+coat
+coffee
+coffee shop
+cold medicine
+comic book
+computer
+computer cable
+concert
+concert ticket
+conditioner
+contact lenses
+cookies
+corn
+cosmetics
+cotton pads
+cough syrup
+cream
+cucumber
+cup
+curtains
+deodorant
+desk
+dessert
+detergent
+diesel
+dinner
+dish soap
+document fee
+donation
+dress
+earphones
+eggs
+escape room
+exhibition
+eye drops
+eyeliner
+face cream
+face wash
+fast food
+ferry
+festival
+first aid kit
+fish
+flash drive
+flight ticket
+flour
+flowers
+food delivery
+football ticket
+fork
+foundation
+fuel
+game
+game console
+garlic
+gasoline
+gift
+glass
+gloves
+grapes
+graphics card
+hair dye
+hair mask
+hair spray
+hamburger
+hand cream
+hard drive
+hat
+headphones
+honey
+hoodie
+ice cream
+insurance
+italian restaurant
+jacket
+jam
+jeans
+juice
+karaoke
+kebab
+kettle
+key
+keyboard
+knife
+lamp
+laptop
+leggings
+lemon
+lettuce
+lipstick
+lotion
+lunch
+magazine
+makeup
+mascara
+mattress
+meal
+meat
+medical mask
+medicine
+medicine tablets
+membership
+memory card
+metro
+metro ticket
+microphone
+milk
+mirror
+moisturizer
+monitor
+mop
+mouse
+movie ticket
+museum
+music
+music subscription
+nail polish
+nasal spray
+netflix
+notebook
+office supplies
+ointment
+onion
+online game
+orange
+painkiller
+pajamas
+pan
+paper
+parcel
+parking
+parking ticket
+pasta
+peas
+pen
+perfume
+pet supplies
+petrol
+phone
+phone case
+photo
+pillow
+pizza
+pizza delivery
+plaster
+plate
+postage
+pot
+potato
+powder
+power bank
+prescription
+printer
+printing
+raincoat
+razor
+repair
+restaurant
+restaurant bill
+rice
+router
+salad
+salt
+sandals
+sandwich
+scarf
+school supplies
+serum
+service fee
+shampoo
+shelf
+shipping
+shirt
+shoes
+shorts
+shower gel
+skirt
+smartphone
+smartwatch
+snack bar
+sneakers
+soap
+socks
+sofa
+speaker
+spoon
+spotify
+stamp
+steak
+storage box
+strawberry
+streaming subscription
+subscription
+sugar
+suit
+suitcase
+sunscreen
+sushi
+sweater
+swimsuit
+t-shirt
+table
+tablet
+takeaway
+taxi
+tea
+television
+thai restaurant
+theater
+theme park
+thermometer
+ticket
+tie
+tomato
+toothbrush
+toothpaste
+towel
+toy
+train
+train ticket
+tram
+tram ticket
+transport pass
+travel card
+trousers
+uber
+umbrella
+underwear
+usb cable
+vacuum cleaner
+vase
+video game
+vitamins
+wallet
+wardrobe
+water
+webcam
+yogurt
+zoo

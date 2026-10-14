@@ -1,0 +1,364 @@
+text,category
+milk,GROCERIES
+bread,GROCERIES
+eggs,GROCERIES
+cheese,GROCERIES
+rice,GROCERIES
+pasta,GROCERIES
+apple,GROCERIES
+banana,GROCERIES
+potato,GROCERIES
+tomato,GROCERIES
+cucumber,GROCERIES
+carrot,GROCERIES
+fish,GROCERIES
+chicken,GROCERIES
+meat,GROCERIES
+yogurt,GROCERIES
+juice,GROCERIES
+water,GROCERIES
+coffee,GROCERIES
+tea,GROCERIES
+cola,GROCERIES
+lemonade,GROCERIES
+orange,GROCERIES
+butter,GROCERIES
+flour,GROCERIES
+sugar,GROCERIES
+salt,GROCERIES
+cereal,GROCERIES
+beans,GROCERIES
+onion,GROCERIES
+bus,TRANSPORT
+train,TRANSPORT
+taxi,TRANSPORT
+metro,TRANSPORT
+tram,TRANSPORT
+parking,TRANSPORT
+fuel,TRANSPORT
+gasoline,TRANSPORT
+diesel,TRANSPORT
+bus ticket,TRANSPORT
+train ticket,TRANSPORT
+metro ticket,TRANSPORT
+tram ticket,TRANSPORT
+transport pass,TRANSPORT
+car wash,TRANSPORT
+car rental,TRANSPORT
+flight ticket,TRANSPORT
+bicycle rental,TRANSPORT
+parking ticket,TRANSPORT
+toll,TRANSPORT
+uber,TRANSPORT
+airport transfer,TRANSPORT
+rail ticket,TRANSPORT
+subway ticket,TRANSPORT
+petrol,TRANSPORT
+vehicle service,TRANSPORT
+motor oil,TRANSPORT
+ferry ticket,TRANSPORT
+coach ticket,TRANSPORT
+travel card,TRANSPORT
+jeans,CLOTHING
+jacket,CLOTHING
+shirt,CLOTHING
+dress,CLOTHING
+coat,CLOTHING
+socks,CLOTHING
+shoes,CLOTHING
+sneakers,CLOTHING
+boots,CLOTHING
+sweater,CLOTHING
+trousers,CLOTHING
+t-shirt,CLOTHING
+skirt,CLOTHING
+hoodie,CLOTHING
+shorts,CLOTHING
+hat,CLOTHING
+scarf,CLOTHING
+gloves,CLOTHING
+blouse,CLOTHING
+suit,CLOTHING
+belt,CLOTHING
+underwear,CLOTHING
+pajamas,CLOTHING
+sandals,CLOTHING
+raincoat,CLOTHING
+cardigan,CLOTHING
+leggings,CLOTHING
+tie,CLOTHING
+cap,CLOTHING
+swimsuit,CLOTHING
+shampoo,BEAUTY
+soap,BEAUTY
+perfume,BEAUTY
+deodorant,BEAUTY
+lipstick,BEAUTY
+mascara,BEAUTY
+makeup,BEAUTY
+toothpaste,BEAUTY
+toothbrush,BEAUTY
+cream,BEAUTY
+lotion,BEAUTY
+conditioner,BEAUTY
+sunscreen,BEAUTY
+nail polish,BEAUTY
+hair mask,BEAUTY
+face cream,BEAUTY
+body lotion,BEAUTY
+foundation,BEAUTY
+eyeliner,BEAUTY
+powder,BEAUTY
+hair spray,BEAUTY
+shower gel,BEAUTY
+face wash,BEAUTY
+serum,BEAUTY
+moisturizer,BEAUTY
+razor,BEAUTY
+hair dye,BEAUTY
+cotton pads,BEAUTY
+hand cream,BEAUTY
+cosmetics,BEAUTY
+sofa,HOME
+table,HOME
+chair,HOME
+bed,HOME
+pillow,HOME
+blanket,HOME
+lamp,HOME
+wardrobe,HOME
+mirror,HOME
+carpet,HOME
+towel,HOME
+kettle,HOME
+curtains,HOME
+plate,HOME
+cup,HOME
+pan,HOME
+pot,HOME
+desk,HOME
+shelf,HOME
+mattress,HOME
+vacuum cleaner,HOME
+broom,HOME
+mop,HOME
+detergent,HOME
+dish soap,HOME
+storage box,HOME
+bed sheet,HOME
+fork,HOME
+spoon,HOME
+glass,HOME
+laptop,ELECTRONICS
+computer,ELECTRONICS
+phone,ELECTRONICS
+smartphone,ELECTRONICS
+tablet,ELECTRONICS
+monitor,ELECTRONICS
+keyboard,ELECTRONICS
+mouse,ELECTRONICS
+headphones,ELECTRONICS
+charger,ELECTRONICS
+printer,ELECTRONICS
+camera,ELECTRONICS
+router,ELECTRONICS
+television,ELECTRONICS
+speaker,ELECTRONICS
+usb cable,ELECTRONICS
+power bank,ELECTRONICS
+smartwatch,ELECTRONICS
+microphone,ELECTRONICS
+webcam,ELECTRONICS
+hard drive,ELECTRONICS
+memory card,ELECTRONICS
+flash drive,ELECTRONICS
+earphones,ELECTRONICS
+game console,ELECTRONICS
+graphics card,ELECTRONICS
+computer cable,ELECTRONICS
+phone case,ELECTRONICS
+adapter,ELECTRONICS
+battery charger,ELECTRONICS
+medicine,HEALTH
+vitamins,HEALTH
+painkiller,HEALTH
+bandage,HEALTH
+thermometer,HEALTH
+pharmacy,HEALTH
+doctor,HEALTH
+dentist,HEALTH
+antiseptic,HEALTH
+eye drops,HEALTH
+cough syrup,HEALTH
+medical test,HEALTH
+first aid kit,HEALTH
+prescription,HEALTH
+hospital,HEALTH
+clinic,HEALTH
+blood test,HEALTH
+dental treatment,HEALTH
+medicine tablets,HEALTH
+cold medicine,HEALTH
+allergy medicine,HEALTH
+nasal spray,HEALTH
+ointment,HEALTH
+plaster,HEALTH
+medical mask,HEALTH
+hearing aid,HEALTH
+contact lenses,HEALTH
+physiotherapy,HEALTH
+health check,HEALTH
+vaccination,HEALTH
+cinema,ENTERTAINMENT
+concert,ENTERTAINMENT
+theater,ENTERTAINMENT
+museum,ENTERTAINMENT
+game,ENTERTAINMENT
+video game,ENTERTAINMENT
+book,ENTERTAINMENT
+bowling,ENTERTAINMENT
+zoo,ENTERTAINMENT
+music,ENTERTAINMENT
+movie ticket,ENTERTAINMENT
+concert ticket,ENTERTAINMENT
+netflix,ENTERTAINMENT
+spotify,ENTERTAINMENT
+amusement park,ENTERTAINMENT
+exhibition,ENTERTAINMENT
+festival,ENTERTAINMENT
+streaming subscription,ENTERTAINMENT
+board game,ENTERTAINMENT
+magazine,ENTERTAINMENT
+comic book,ENTERTAINMENT
+dance class,ENTERTAINMENT
+karaoke,ENTERTAINMENT
+escape room,ENTERTAINMENT
+aquarium,ENTERTAINMENT
+sports event,ENTERTAINMENT
+football ticket,ENTERTAINMENT
+online game,ENTERTAINMENT
+music subscription,ENTERTAINMENT
+theme park,ENTERTAINMENT
+restaurant,RESTAURANTS
+cafe,RESTAURANTS
+pizza,RESTAURANTS
+burger,RESTAURANTS
+sushi,RESTAURANTS
+lunch,RESTAURANTS
+dinner,RESTAURANTS
+breakfast,RESTAURANTS
+takeaway,RESTAURANTS
+sandwich,RESTAURANTS
+salad,RESTAURANTS
+kebab,RESTAURANTS
+coffee shop,RESTAURANTS
+fast food,RESTAURANTS
+restaurant bill,RESTAURANTS
+pasta restaurant,RESTAURANTS
+steak,RESTAURANTS
+dessert,RESTAURANTS
+ice cream,RESTAURANTS
+bakery,RESTAURANTS
+food delivery,RESTAURANTS
+chinese restaurant,RESTAURANTS
+thai restaurant,RESTAURANTS
+italian restaurant,RESTAURANTS
+brunch,RESTAURANTS
+snack bar,RESTAURANTS
+pizza delivery,RESTAURANTS
+hamburger,RESTAURANTS
+meal,RESTAURANTS
+canteen,RESTAURANTS
+gift,OTHER
+donation,OTHER
+postage,OTHER
+shipping,OTHER
+pen,OTHER
+notebook,OTHER
+paper,OTHER
+umbrella,OTHER
+backpack,OTHER
+suitcase,OTHER
+wallet,OTHER
+flowers,OTHER
+repair,OTHER
+key,OTHER
+service fee,OTHER
+subscription,OTHER
+stamp,OTHER
+printing,OTHER
+photo,OTHER
+school supplies,OTHER
+office supplies,OTHER
+membership,OTHER
+bank fee,OTHER
+insurance,OTHER
+pet supplies,OTHER
+toy,OTHER
+birthday gift,OTHER
+charity,OTHER
+document fee,OTHER
+parcel,OTHER
+cucumbers,GROCERIES
+tomatoes,GROCERIES
+potatoes,GROCERIES
+onions,GROCERIES
+carrots,GROCERIES
+lettuce,GROCERIES
+cabbage,GROCERIES
+broccoli,GROCERIES
+spinach,GROCERIES
+pepper,GROCERIES
+peppers,GROCERIES
+garlic,GROCERIES
+apples,GROCERIES
+bananas,GROCERIES
+oranges,GROCERIES
+grapes,GROCERIES
+lemon,GROCERIES
+strawberry,GROCERIES
+watermelon,GROCERIES
+beef,GROCERIES
+uber ride,TRANSPORT
+bike rental,TRANSPORT
+airport bus,TRANSPORT
+railway ticket,TRANSPORT
+monthly bus pass,TRANSPORT
+toll road,TRANSPORT
+t shirt,CLOTHING
+pants,CLOTHING
+body cream,BEAUTY
+skin cream,BEAUTY
+beauty salon,BEAUTY
+haircut,BEAUTY
+manicure,BEAUTY
+face mask,BEAUTY
+bed sheets,HOME
+washing powder,HOME
+trash bags,HOME
+painkillers,HEALTH
+doctor visit,HEALTH
+cinema ticket,ENTERTAINMENT
+museum ticket,ENTERTAINMENT
+theater ticket,ENTERTAINMENT
+zoo ticket,ENTERTAINMENT
+streaming,ENTERTAINMENT
+festival ticket,ENTERTAINMENT
+restaurant dinner,RESTAURANTS
+restaurant lunch,RESTAURANTS
+pizza restaurant,RESTAURANTS
+sushi restaurant,RESTAURANTS
+burger restaurant,RESTAURANTS
+breakfast cafe,RESTAURANTS
+dinner out,RESTAURANTS
+lunch out,RESTAURANTS
+coffee at cafe,RESTAURANTS
+meal at restaurant,RESTAURANTS
+delivery pizza,RESTAURANTS
+restaurant meal,RESTAURANTS
+pet food,OTHER
+subscription fee,OTHER
+repair service,OTHER
+printing service,OTHER
+laundry service,OTHER
+miscellaneous,OTHER
